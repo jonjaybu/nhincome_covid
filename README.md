@@ -1,7 +1,7 @@
 # nhincome_covid
 Repository for Neighborhood Income and Physical Distancing Behaviors during the COVID-19 Pandemic in the United States
 
-# 3 Nov 2020: Code for the published version is currently being updated. Please check back later this week for final code. 
+# 3 Nov 2020: Code from the published version is currently being updated. Please check back later this week for final code. 
 
 Please note that some data required for this analysis are available from SafeGraph Inc. but restrictions apply to the availability of these data, which were used under license for the current study, and so are not publicly available. Data are however available from the authors upon reasonable request and with permission of SafeGraph Inc. 
 
