@@ -5,4 +5,4 @@ Published article is available from https://www.nature.com/articles/s41562-020-0
 
 Please note that some data required for this analysis are available from SafeGraph Inc. but restrictions apply to the availability of these data, which were used under license for the current study, and so are not publicly available. Data are however available from the authors upon reasonable request and with permission of SafeGraph Inc. 
 
-R code posted here will generate most tables and figures in the paper. For additional assistance, please contact Dr. Jonathan Jay: jonjay <at> bu.edu
+R code posted here will generate most tables and figures in the paper. For additional assistance, please contact Dr. Jonathan Jay: jonjay@bu.edu
